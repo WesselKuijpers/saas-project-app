@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* ruby version: 2.5.1
+* rails version: 5.2.1
+* DB: sqlite
 
-Things you may want to cover:
+instructions:
+=============
+1> bundle install
+2> rails s
+3> navigate over to localhost:3000
+4> enjoy my creation
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
